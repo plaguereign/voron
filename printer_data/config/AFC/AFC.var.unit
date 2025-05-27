@@ -80,8 +80,8 @@
             "map": "T3",
             "load": false,
             "prep": false,
-            "tool_loaded": true,
-            "loaded_to_hub": false,
+            "tool_loaded": false,
+            "loaded_to_hub": true,
             "material": "ABS",
             "spool_id": "",
             "color": "#FB0E0E",
@@ -90,7 +90,7 @@
             "runout_lane": "NONE",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Tool Unloading"
+            "status": null
         }
     },
     "system": {
