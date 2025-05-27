@@ -57,7 +57,7 @@
             "map": "T2",
             "load": false,
             "prep": false,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "loaded_to_hub": true,
             "material": "ABS",
             "spool_id": "",
@@ -67,7 +67,7 @@
             "runout_lane": "NONE",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Tool Unloading"
+            "status": null
         },
         "lane4": {
             "name": "lane4",
@@ -94,13 +94,13 @@
         }
     },
     "system": {
-        "current_load": "lane3",
+        "current_load": null,
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane3"
+                "lane_loaded": ""
             }
         },
         "bypass": {
