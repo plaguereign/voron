@@ -102,7 +102,7 @@
             "runout_lane": "NONE",
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": "None"
+            "status": "Tool Unloading"
         }
     },
     "system": {
